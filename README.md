@@ -1,6 +1,6 @@
 # Rewriting Project Claw Code [CLONED]
 <p align="center">
-  <img src="assets/clawd-hero.jpeg" alt="Claw" width="300" />
+  <img src="assets/clawd-hero.jpg" alt="Claw" width="300" />
 </p>
 
 <p align="center">

@@ -1,4 +1,4 @@
-# Rewriting Project Claw Code
+# Rewriting Project Claw Code [CLONED]
 <p align="center">
   <img src="assets/clawd-hero.jpeg" alt="Claw" width="300" />
 </p>
